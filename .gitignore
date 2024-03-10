@@ -1,0 +1,62 @@
+# Ignore system and user-specific directories
+.VirtualBox/
+.android/
+.eclipse/
+.gitconfig
+.m2/
+.p2/
+.packettracer
+.ssh/
+.tooling/
+.vscode/
+
+# Ignore Windows system directories
+AppData/
+Cookies/
+Local Settings/
+Menu Démarrer/
+Mes documents/
+Modèles/
+Recent/
+SendTo/
+Voisinage d'impression/
+Voisinage réseau/
+NTUSER.DAT/
+Application Data/
+
+
+# Ignore other common directories
+3D Objects/
+Cisco Packet Tracer 7.0/
+Cisco Packet Tracer 7.1/
+Cisco Packet Tracer 7.3.0/
+Contacts/
+Creative Cloud Files/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+GNS3/
+IntelGraphicsProfiles/
+Links/
+Lockdown/
+MicrosoftEdgeBackups/
+Music/
+NASCAR Heat 4/
+OneDrive/
+OpenVPN/
+Pictures/
+Saved Games/
+Searches/
+UrbanVPN/
+Videos/
+VirtualBox VMs/
+
+# Ignore specific files
+battery-report.html
+cmd.txt
+energy-report.html
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+opera autoupdate/
